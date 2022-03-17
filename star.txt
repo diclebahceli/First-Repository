@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 creating a new branch
+=======
+this is a message from yigitkalan
+>>>>>>> e0829916bae80b7d7bf5c3ad7de072896ec00ecb
