@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 creating a new branch
 =======
 this is a message from yigitkalan
